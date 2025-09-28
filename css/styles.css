@@ -99,7 +99,7 @@ a {
     color: #434455;
 }
 
-.section3 {
+.team-section {
     background-color: #f4f4fd;
 }
 
@@ -107,7 +107,7 @@ a {
     background-color: #fff;
 }
 
-.section3 .title,
+.team-section .title,
 .section4 .title {
     font-weight: 700;
     font-size: 36px;
@@ -115,6 +115,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-item {
@@ -135,6 +136,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    font-size: 16px;
 }
 
 .portfoilio-item {
