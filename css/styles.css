@@ -49,6 +49,88 @@ color: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.section1{
+    background-color: #2e2f42;
+}
+.page-title{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.btn-ord-svc{
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+background-color: #4d5ae5;
+}
+.skills-title{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.skills-text{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.section3{
+    background-color: #f4f4fd;
+}
+.team-item{
+    background-color: #fff;
+}
+.section3 .title,
+.section4 .title{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.team-item{
+background: #fff;
+}
+.worker-name{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.worker-pos{
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+.portfoilio-item{
+    background-color: #fff;
+}
+.work-name{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.work-pos{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
 .page-footer{
     background-color: #2e2f42;
+}
+.footer-text{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
